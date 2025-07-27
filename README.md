@@ -72,3 +72,35 @@ Here are a few suggestions on what to do next if you're new to Netlify visual ed
 ## Support
 
 If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+
+<form action="https://getform.io/f/12345678-abcd-efgh-ijkl-mnopqrstuvwx" method="POST">
+  <h2>Contáctame</h2>
+
+  <label for="name">Nombre</label>
+  <input type="text" id="name" name="name" placeholder="Tu nombre" required />
+
+  <label for="email">Correo electrónico</label>
+  <input type="email" id="email" name="email" placeholder="tu@correo.com" required />
+
+  <label for="message">bienvenido</label>
+  <textarea id="message" name="message" rows="4" placeholder="Escribe tu mensaje aquí..." required></textarea>
+
+  <button type="submit">Enviar</button>
+</form>
+
+<form action="https://getform.io/f/tu-form-id-aqui" method="POST">
+  <h2>Contáctame</h2>
+
+  <label for="name">lapalma</label>
+  <input type="text" id="name" name="name" placeholder="Tu nombre" required />
+
+  <label for="email">Correo electrónico</label>
+  <input type="email" id="email" name="email" placeholder="tu@correo.com" required />
+
+  <label for="message">Mensaje</label>
+  <textarea id="message" name="message" rows="4" placeholder="Escribe tu mensaje aquí..." required></textarea>
+
+  <button type="submit">Enviar</button>
+</form>
+
+
